@@ -1,7 +1,7 @@
-# This repo contains scripts which helps minimize your efforts to setup k8s kind cluster
-## This script automates the process of setting up k8s cluster also it configures Metrics Server(which helps to monitor your server metrics)
+# This repo contains scripts which helps minimize your efforts to set k8s kind cluster
+## This script automates the process of setting up k8s cluster also it configures Metrics Server(which helps to monitor your cluster metrics)
 
-To start using kind you need to have docker already installed in your system already because, kind runs on or using docker cotainer 
+To start using kind you need to have docker already installed in your system because kind runs on or using docker container 
 
 ### To use this automation script simply download or clone the repo
 - step1: Clone or download the files
